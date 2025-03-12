@@ -18,7 +18,7 @@ The **AI-Powered Medical Translator** is an advanced Natural Language Processing
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ShahdAboelkramat/medical-translator.git
+   git clone https://github.com/ShahdAboelkramat/Biomedical-Translator-AI-model.git
    ```
 2. Install dependencies (.venv)
 3. Run the model
