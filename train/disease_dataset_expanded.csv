@@ -1,0 +1,40 @@
+Disease,Symptoms (EN),Symptoms (DE),Symptoms (ES),Symptoms (PT)
+Influenza,"Fever, cough, sore throat, muscle aches, fatigue, chills",N/A,N/A,N/A
+Diabetes,"Increased thirst, frequent urination, extreme hunger, fatigue, blurred vision",N/A,N/A,N/A
+Hypertension,"Headache, dizziness, nosebleeds, shortness of breath, chest pain",N/A,N/A,N/A
+Migraine,"Severe headache, nausea, sensitivity to light and sound, vomiting",N/A,N/A,N/A
+Asthma,"Shortness of breath, wheezing, coughing, chest tightness",N/A,N/A,N/A
+Pneumonia,"Cough with phlegm, fever, chills, difficulty breathing, chest pain",N/A,N/A,N/A
+Arthritis,"Joint pain, stiffness, swelling, redness, decreased range of motion",N/A,N/A,N/A
+Anemia,"Fatigue, weakness, pale skin, shortness of breath, dizziness",N/A,N/A,N/A
+Allergy,"Sneezing, itching, runny nose, watery eyes, rash",N/A,N/A,N/A
+COVID-19,"Fever, cough, loss of taste or smell, difficulty breathing, fatigue",N/A,N/A,N/A
+Tuberculosis,"Persistent cough, night sweats, weight loss, fever, fatigue",N/A,N/A,N/A
+Hepatitis B,"Jaundice, fatigue, abdominal pain, nausea, joint pain",N/A,N/A,N/A
+HIV/AIDS,"Fever, swollen lymph nodes, weight loss, night sweats, recurrent infections",N/A,N/A,N/A
+Malaria,"Fever, chills, headache, nausea, vomiting, muscle pain",N/A,N/A,N/A
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, mild bleeding",N/A,N/A,N/A
+Cholera,"Severe diarrhea, dehydration, vomiting, leg cramps, rapid heart rate",N/A,N/A,N/A
+Typhoid Fever,"High fever, weakness, stomach pain, constipation or diarrhea, loss of appetite",N/A,N/A,N/A
+Meningitis,"Severe headache, stiff neck, fever, nausea, sensitivity to light",N/A,N/A,N/A
+Ebola,"Fever, severe headache, muscle pain, vomiting, diarrhea, bleeding",N/A,N/A,N/A
+Zika Virus,"Fever, rash, joint pain, red eyes, muscle pain, headache",N/A,N/A,N/A
+Chickenpox,"Itchy rash, fever, loss of appetite, tiredness, headache",N/A,N/A,N/A
+Measles,"Fever, cough, runny nose, red eyes, rash starting on face",N/A,N/A,N/A
+Rubella,"Mild fever, rash, swollen lymph nodes, joint pain, conjunctivitis",N/A,N/A,N/A
+Tetanus,"Jaw stiffness, muscle spasms, difficulty swallowing, fever, sweating",N/A,N/A,N/A
+Rabies,"Fever, headache, muscle weakness, hallucinations, paralysis, hydrophobia",N/A,N/A,N/A
+Polio,"Fever, sore throat, headache, stiffness in back and neck, paralysis in severe cases",N/A,N/A,N/A
+Leprosy,"Skin lesions, numbness, muscle weakness, eye problems, nasal congestion",N/A,N/A,N/A
+Plague,"Fever, chills, swollen lymph nodes, headache, muscle aches",N/A,N/A,N/A
+Syphilis,"Sores, rash, fever, swollen lymph nodes, weight loss, hair loss",N/A,N/A,N/A
+Gonorrhea,"Painful urination, discharge, swollen testicles, bleeding between periods",N/A,N/A,N/A
+Chlamydia,"Painful urination, discharge, pelvic pain, testicular pain",N/A,N/A,N/A
+Herpes,"Blisters, ulcers, pain, itching, flu-like symptoms",N/A,N/A,N/A
+HPV,"Warts on genitals or throat, sometimes asymptomatic",N/A,N/A,N/A
+Cervical Cancer,"Abnormal bleeding, pelvic pain, pain during intercourse, unusual discharge",N/A,N/A,N/A
+Lung Cancer,"Persistent cough, coughing up blood, chest pain, weight loss, shortness of breath",N/A,N/A,N/A
+Breast Cancer,"Lump in breast, nipple discharge, skin dimpling, breast pain",N/A,N/A,N/A
+Prostate Cancer,"Frequent urination, difficulty urinating, blood in urine, pelvic discomfort",N/A,N/A,N/A
+Colorectal Cancer,"Changes in bowel habits, blood in stool, abdominal discomfort, weight loss",N/A,N/A,N/A
+Liver Disease,"Jaundice, swelling in abdomen, nausea, fatigue, easy bruising",N/A,N/A,N/A
